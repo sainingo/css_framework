@@ -15,7 +15,10 @@ body {
    width: 50%;
    margin: 0 auto;
 }
-
+.pt-5 p{
+    width: 50%; 
+    color: #fff;
+}
 .row-container h4 {
     margin-left: 40px;
 }
